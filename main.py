@@ -1,2 +1,4 @@
+print("teste")
+print("teste")
 print("Checkpoint para as aulas 1 2 e 3")
 print("Introduzir as rotas com flask")
