@@ -8,3 +8,5 @@ def home():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000, debug=True)
+print("Checkpoint para as aulas 1 2 e 3")
+print("Introduzir as rotas com flask")
